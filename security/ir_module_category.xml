@@ -1,0 +1,6 @@
+<odoo>
+    <record id="security_auditlog_groups" model="ir.module.category">
+        <field name="name">Auditlog</field>
+        <field name="description">Audit trail Security Groups</field>
+    </record>
+</odoo>

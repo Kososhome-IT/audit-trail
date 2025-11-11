@@ -10,6 +10,7 @@
     "category": "Tools",
     "depends": ["base"],
     "data": [
+        'security/ir_module_category.xml',
         "security/res_groups.xml",
         "security/ir.model.access.csv",
         "data/ir_cron.xml",

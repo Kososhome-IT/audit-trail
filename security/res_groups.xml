@@ -1,8 +1,4 @@
 <odoo>
-  <record id="security_auditlog_groups" model="ir.module.category">
-    <field name="name">Auditlog</field>
-    <field name="description">Audit trail Security Groups</field>
-  </record>
     <record model="res.groups" id="group_auditlog_user">
         <field name="name">Auditlog User</field>
         <field name="category_id" ref="auditlog.security_auditlog_groups" />
