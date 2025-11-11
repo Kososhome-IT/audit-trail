@@ -10,8 +10,8 @@
     "category": "Tools",
     "depends": ["base"],
     "data": [
-        "security/res_groups.xml",
         "security/ir.model.access.csv",
+        "security/res_groups.xml",
         "data/ir_cron.xml",
         "views/auditlog_view.xml",
         "views/http_session_view.xml",
